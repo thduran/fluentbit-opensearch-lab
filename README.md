@@ -110,6 +110,9 @@ helm install fluent-bit fluent/fluent-bit -f values.yaml
 
 Access the OpenSearch Dashboards URL given by AWS, create the Index Pattern logstash-* and visualize the logs in real-time in the Discover tab.
 
+<img width="1528" height="628" alt="openawseks1" src="https://github.com/user-attachments/assets/07d4d3ca-8dc8-466c-a3fb-276a3753704d" />
+<img width="1500" height="682" alt="openawseks2" src="https://github.com/user-attachments/assets/5eaba1a8-e7bc-43fe-8983-842d14dfbd51" />
+
 ---
 
 <div id="pt-br"></div>
@@ -223,3 +226,6 @@ helm install fluent-bit fluent/fluent-bit -f values.yaml
 ### 4. Visualizar
 
 Acesse a URL do OpenSearch Dashboards disponibilizada pela AWS, crie o Index Pattern logstash-* e visualize os logs em tempo real na aba Discover.
+
+<img width="1528" height="628" alt="openawseks1" src="https://github.com/user-attachments/assets/07d4d3ca-8dc8-466c-a3fb-276a3753704d" />
+<img width="1500" height="682" alt="openawseks2" src="https://github.com/user-attachments/assets/5eaba1a8-e7bc-43fe-8983-842d14dfbd51" />
