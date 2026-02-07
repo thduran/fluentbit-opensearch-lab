@@ -1,0 +1,13 @@
+config:
+  outputs: |
+    [OUTPUT]
+        Name opensearch
+        Match *
+        Host search-seu-dominio-aws.us-east-1.es.amazonaws.com
+        Port 443
+        HTTP_User admin
+        HTTP_Passwd suaSenha
+        Logstash_Format On
+        tls On
+        tls.verify Off
+        Suppress_Type_Name On
