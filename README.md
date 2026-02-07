@@ -68,7 +68,7 @@ Migration of the workload to AWS, using managed services.
 
 ---
 
-## ⚙️ Steps
+## Steps
 
 ### Prerequisites
 * AWS CLI configured.
@@ -185,7 +185,7 @@ Migração do workload para a AWS, utilizando serviços gerenciados.
 
 ---
 
-## ⚙️ Passo a passo
+## Passo a passo
 
 ### Pré-requisitos
 * AWS CLI configurado.
